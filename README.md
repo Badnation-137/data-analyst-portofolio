@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/python-3.11-blue)
+![Pandas](https://img.shields.io/badge/pandas-1.5.3-lightgrey?logo=pandas)
+![Matplotlib](https://img.shields.io/badge/matplotlib-3.7-orange?logo=plotly)
+
+
 # 📊 Real-Case Data Analyst Portfolio – Abdul Hafiz Atallah
 
 Portofolio ini menyajikan hasil pembelajaran dan simulasi alur kerja seorang Data Analyst, mulai dari pembersihan data, visualisasi, statistik deskriptif, hingga dasar pemrograman Python. Semua notebook dirancang ulang dari praktikum akademik menjadi struktur profesional untuk digunakan sebagai bukti keterampilan nyata di bidang analisis data.
