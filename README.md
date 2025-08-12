@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ![Python](https://img.shields.io/badge/python-3.11-blue)
 ![Pandas](https://img.shields.io/badge/pandas-1.5.3-lightgrey?logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/matplotlib-3.7-orange?logo=plotly)
@@ -45,11 +44,8 @@ Skill dan metodologi yang saya terapkan di sini relevan untuk:
 - Menyajikan laporan analisis untuk pengambilan keputusan
 - Mendukung tim bisnis, produk, atau engineering dengan insight berbasis data
 
----
 
-
-================================================================================================================================
->>>>>>> f999a75 (Update README : Portofolio Versi)
+--------------------------------------------------------------------------------------------------------------------------------
 
 
 # 📊 Real-Case Data Analyst Portfolio – Abdul Hafiz Atallah
