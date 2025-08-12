@@ -1,6 +1,55 @@
+<<<<<<< HEAD
 ![Python](https://img.shields.io/badge/python-3.11-blue)
 ![Pandas](https://img.shields.io/badge/pandas-1.5.3-lightgrey?logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/matplotlib-3.7-orange?logo=plotly)
+=======
+# 📊 Real-Case Data Analyst & Data Quality Portfolio
+
+**Author:** Abdul Hafiz Atallah  
+**Target Role:** Data Analyst / Data Quality Assurance / Business Intelligence /Marketing Data Analyst
+
+---
+
+## 📌 Overview
+Portofolio ini adalah gabungan dari berbagai proyek praktikum yang saya kerjakan menggunakan Python, Pandas, dan Matplotlib.  
+Saya menyusunnya menjadi satu kesatuan **real-case project** yang merepresentasikan pekerjaan Data Analyst di dunia kerja.
+
+Proyek ini membuktikan kemampuan saya dalam:
+- Membersihkan dan memvalidasi dataset agar siap dianalisis
+- Melakukan eksplorasi data untuk menemukan insight bisnis
+- Membuat visualisasi interaktif dan informatif
+- Menerapkan pengecekan kualitas data (data quality checks)
+
+---
+
+## 🛠 Tools & Technologies
+![Python](https://img.shields.io/badge/python-3.11-blue)
+![Pandas](https://img.shields.io/badge/pandas-1.5.3-lightgrey?logo=pandas)
+![Matplotlib](https://img.shields.io/badge/matplotlib-3.7-orange?logo=plotly)
+![JupyterLab](https://img.shields.io/badge/JupyterLab-Data_Analysis-yellow?logo=jupyter)
+
+---
+
+## 🔍 Skills Demonstrated
+- Data Cleaning (handling missing values, duplicates, formatting)
+- Exploratory Data Analysis (EDA)
+- Data Validation & Quality Checks
+- Business Insights via Visualization
+- Statistical Summary
+
+---
+
+## 🎯 Relevance to Role
+Skill dan metodologi yang saya terapkan di sini relevan untuk:
+- Mengolah dan memvalidasi data internal perusahaan
+- Menyajikan laporan analisis untuk pengambilan keputusan
+- Mendukung tim bisnis, produk, atau engineering dengan insight berbasis data
+
+---
+
+
+================================================================================================================================
+>>>>>>> f999a75 (Update README : Portofolio Versi)
 
 
 # 📊 Real-Case Data Analyst Portfolio – Abdul Hafiz Atallah
