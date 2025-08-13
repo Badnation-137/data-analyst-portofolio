@@ -5,8 +5,7 @@
 # 📊 Real-Case Data Analyst & Data Quality Portfolio
 
 **Author:** Abdul Hafiz Atallah  
-**Target Role:** Data Analyst / Data Quality Assurance / Business Intelligence /Marketing Data Analyst
-
+**Target Role:** Data Analyst / Data Intelligence / Business Intelligence 
 ---
 
 ## 📌 Overview
@@ -111,7 +110,7 @@ data-analyst-portfolio/
 
 ## 📎 Catatan Tambahan
 
-> Portofolio ini merupakan hasil rekonstruksi praktikum menjadi proyek yang mencerminkan alur kerja nyata seorang Data Analyst. Setiap notebook dapat dijalankan di JupyterLab, Google Colab, atau Visual Studio Code dengan ekstensi Jupyter.
+> Portofolio ini merupakan hasil rekonstruksi praktikum menjadi proyek yang mencerminkan alur kerja nyata seorang Di bidang Data. Setiap notebook dapat dijalankan di JupyterLab, Google Colab, atau Visual Studio Code dengan ekstensi Jupyter.
 
 ---
 
